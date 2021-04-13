@@ -52,10 +52,10 @@ export default {
 #### 权限控制
 * 如果在未登陆的情况下访问指定页面 将会重定向到登陆页
 
-#### [eslint + vscode 自动格式化代码](https://github.com/woai3c/Front-end-articles/blob/master/eslint-vscode-format.md)
+#### eslint + vscode 自动格式化代码
 具体配置方法请点击上面的链接，如果不需要 eslint，请将相关依赖卸载以及根目录下的 `.eslintrc.js` 删除。
 
-#### [jest 单元测试](https://vue-test-utils.vuejs.org/zh/guides/testing-single-file-components-with-jest.html)
+#### jest 单元测试
 如果不需要，请卸载相关依赖及删除根目录下的 `tests` 目录
 
 #### 页面标题 `document.title`
